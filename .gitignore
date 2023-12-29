@@ -1,10 +1,10 @@
 .ipynb_checkpoints
-train-yolov8-custom-dataset-step-by-step-guide/.ipynb_checkpoints
-train-yolov8-custom-dataset-step-by-step-guide/data
+./train-yolov8-custom-dataset-step-by-step-guide/.ipynb_checkpoints
+./train-yolov8-custom-dataset-step-by-step-guide/data
 train-yolov8-custom-dataset-step-by-step-guide/data_original
 train-yolov8-custom-dataset-step-by-step-guide/downloaded-images
 
 # csv data
-oidv6-train-annotations-bbox.csv
-test-annotations-bbox.csv
-validation-annotations-bbox.csv
+train-yolov8-custom-dataset-step-by-step-guide/oidv6-train-annotations-bbox.csv
+train-yolov8-custom-dataset-step-by-step-guide/test-annotations-bbox.csv
+train-yolov8-custom-dataset-step-by-step-guide/validation-annotations-bbox.csv
