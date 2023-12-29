@@ -1,6 +1,6 @@
 .ipynb_checkpoints
-./train-yolov8-custom-dataset-step-by-step-guide/.ipynb_checkpoints
-./train-yolov8-custom-dataset-step-by-step-guide/data
+train-yolov8-custom-dataset-step-by-step-guide/.ipynb_checkpoints
+train-yolov8-custom-dataset-step-by-step-guide/data/*
 train-yolov8-custom-dataset-step-by-step-guide/data_original
 train-yolov8-custom-dataset-step-by-step-guide/downloaded-images
 
